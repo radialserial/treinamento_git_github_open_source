@@ -50,14 +50,14 @@ Por exemplo: `git remote add upstream https://github.com/maysamkt/treinamento_gi
     > Exemplo: `git checkout -b feat/colaborador/maysamkt`
 
 ### Dentro da pasta [`colaborador`](https://github.com/Maysamkt/treinamento_git_github_open_source/blob/main/colaborador/), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
-    > Exemplo: `maysamkt.md` <br>
+    > Exemplo: `maysamkt.md` 
 
 ###  Desenvolva o seu Arquivo. 
 #### Para isso, você pode ver exemplos de sintaxe markdown na pasta [`colaborador`](https://github.com/Maysamkt/treinamento_git_github_open_source/blob/main/colaborador/);
 
 ### Adicione suas alterações a "staging area" com o comando `git add colaborador/SEU_USERNAME.md`;
 ### Crie um commit e adicione a mensagem indicando a adição do seu arquivo `git commit -m"feat: add SEU_USERNAME profile"`;
-### Envie as alterações para o seu repositório remoto `git push origin feat/community/SEU_USERNAME`;
+### Envie as alterações para o seu repositório remoto `git push origin feat/colaborador/SEU_USERNAME`;
 ### Crie um *Pull Request*
 
 # Vendo como fazer o commit diretamente pelo vscode
