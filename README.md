@@ -49,11 +49,11 @@ Por exemplo: `git remote add upstream https://github.com/maysamkt/treinamento_gi
 `feat/colaborador/SEU_USERNAME`: `git checkout -b feat/colaborador/SEU_USERNAME`; <br>
     > Exemplo: `git checkout -b feat/colaborador/maysamkt`
 
-### Dentro da pasta [`colaborador`](https://github.com/maysamkt/treinamento_git_github-open-source/tree/main/colaborador), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
+### Dentro da pasta [`colaborador`](https://github.com/Maysamkt/treinamento_git_github_open_source/blob/main/colaborador/), crie um arquivo em Markdown (extensão `.md`) e nomeie com o mesmo nome do seu usuário no GitHub;
     > Exemplo: `maysamkt.md` <br>
 
 ###  Desenvolva o seu Arquivo. 
-#### Para isso, você pode ver exemplos de sintaxe markdown na pasta [`colaborador`](https://github.com/maysamkt/treinamento_git_github-open-source/tree/main/colaborador);
+#### Para isso, você pode ver exemplos de sintaxe markdown na pasta [`colaborador`](https://github.com/Maysamkt/treinamento_git_github_open_source/blob/main/colaborador/);
 
 ### Adicione suas alterações a "staging area" com o comando `git add colaborador/SEU_USERNAME.md`;
 ### Crie um commit e adicione a mensagem indicando a adição do seu arquivo `git commit -m"feat: add SEU_USERNAME profile"`;
